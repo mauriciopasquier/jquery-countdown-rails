@@ -9,7 +9,7 @@ module JqueryCountdownRails
     else
       require "jquery-countdown-rails/engine"
     end
-  else
+  elsif defined? ::Sprockets
     require "jquery-countdown-rails/sprockets"
   end
 end
