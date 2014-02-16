@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = JqueryCountdownRails::VERSION
   spec.authors       = ["Mauricio Pasquier Juan"]
   spec.email         = ["mauricio@pasquierjuan.com.ar"]
-  spec.description   = %Q{jQuery Countdown #{JqueryCountdownRails::ASSET_VERSION},
-                          packaged for standalone sprockets or rails}
+  spec.description   = %Q{jQuery Countdown (gem version reflects assets
+                          version) packaged for standalone sprockets or rails}
   spec.summary       = %q{jQuery Countdown for the asset pipeline}
   spec.homepage      = "https://github.com/mauriciopasquier/jquery-countdown-rails"
   spec.license       = "MIT"

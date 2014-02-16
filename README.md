@@ -17,6 +17,8 @@ Or install it yourself as:
 
     $ gem install jquery-countdown-rails
 
+This gem's version reflects the asset version starting with `1.6.3`.
+
 ## Usage
 
 Require the core file, and any locale you need, in your `application.js` (`-en`
