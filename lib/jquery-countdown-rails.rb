@@ -1,6 +1,6 @@
 require 'jquery-countdown-rails/version'
 
-# Public: Adds jquery-countdown to the asset pipeline, for rails < 3.1 and
+# Public: Adds jquery-countdown to the asset pipeline, for rails and
 # standalone Sprockets
 module JqueryCountdownRails
   if defined? ::Rails
