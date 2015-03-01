@@ -15,3 +15,7 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+
+# Ignore minified upstreams
+vendor/assets/javascripts/jquery.countdown.min.js
+vendor/assets/javascripts/jquery.plugin.min.js
