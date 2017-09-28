@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.14.3, rbenv: 2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v12.1.0, rbenv: 2.3.3) [gem]" level="application" />
+  </component>
+</module>
