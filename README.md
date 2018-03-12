@@ -3,6 +3,11 @@
 [jquery-countdown][] for the asset pipeline. Despite the name, it works fine if
 you're using [sprockets][] without rails.
 
+## This gem is not maintained anymore
+
+You should instead use something like [rails-assets][] or through `yarn` and
+`webpack` if you're using rails 5.
+
 ## Installation
 
 Add this line to your application's Gemfile:
